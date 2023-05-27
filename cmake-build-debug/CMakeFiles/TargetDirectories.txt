@@ -1,0 +1,5 @@
+/home/ash/Desktop/Studing/c++/Pracs/Tree-Visualizer/cmake-build-debug/CMakeFiles/Tree-Visualizer.dir
+/home/ash/Desktop/Studing/c++/Pracs/Tree-Visualizer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ash/Desktop/Studing/c++/Pracs/Tree-Visualizer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ash/Desktop/Studing/c++/Pracs/Tree-Visualizer/cmake-build-debug/CMakeFiles/Tree-Visualizer_autogen_timestamp_deps.dir
+/home/ash/Desktop/Studing/c++/Pracs/Tree-Visualizer/cmake-build-debug/CMakeFiles/Tree-Visualizer_autogen.dir
